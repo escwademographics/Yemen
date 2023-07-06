@@ -82,7 +82,7 @@ page_style= """
         visibility: visible;
         }
     footer:after{
-        content: 'Developed by Ali Maatouk - ESCWA Statistics, Information Society and Technology Cluster';
+        content: 'Developed by ESCWA Statistics, Information Society and Technology Cluster';
         display:block;
         position:relative;
         color:#1e54e4;
