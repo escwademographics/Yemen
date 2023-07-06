@@ -29,7 +29,7 @@ st.image("title.PNG")
 placeholder = st.empty()
 
 actual_email = "bahrain"
-actual_password = "bahrain17"
+actual_password = "bahrain22"
 
 # Insert a form in the container
 with placeholder.form("login"):
@@ -54,7 +54,7 @@ if submit and email == actual_email and password == actual_password:
     with col1:
         st.write("[Population - السكان]()")
     with col2:
-        st.write("[Labor - العمالة](https://docs.google.com/spreadsheets/d/1UGEiAmFwx7iiY1WV1s7l0TFz08pQPGju/edit?usp=sharing&ouid=100083186149459779256&rtpof=true&sd=true)")
+        st.write("[Labor - العمالة]()")
     with col3:
         st.write("[Poverty - الفقر]()")
     with col4:
